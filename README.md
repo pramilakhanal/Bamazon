@@ -17,24 +17,24 @@ Manager Inreface is obtained by running bamazonManager.js file in Node terminal.
 * View Low Inventory
 * Add to Inventory
 * Add New Product
-![ScreenShot-3](images/ScreenShot-3.png)
+![ScreenShot-3](images/screenShot-3.png)
 
 #### View Product for Sale
 Manager is able to view the list of the product for Sale. List incuded Id, name and price of the product as well as stock quantity.
-![ScreenShot-4](images/ScreenShot-4.png)
+![ScreenShot-4](images/screenShot-4.png)
 
 #### View Low Inventory
 Manager is able to view the products that are less then 5 in stock which considered as low in Inventory and able to add more in the stock.
-![ScreenShot-5](images/ScreenShot-5.png)
+![ScreenShot-5](images/screenShot-5.png)
 
 #### Add to Inventory
 Manager is able to add products and update the stock.
-![ScreenShot-6](images/ScreenShot-6.png)
+![ScreenShot-6](images/screenShot-6.png)
 
 
 #### Add New Product
 Manager is able to add completely new product with the product id, name, department, stock quantity. Added product is updated in the database and available for customers to purchase.
-![ScreenShot-7](images/ScreenShot-7.png)
+![ScreenShot-7](images/screenShot-7.png)
 
 
 
